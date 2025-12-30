@@ -39,7 +39,7 @@ We maintain alignment through structured communication:
 
 - **Daily standups** for delivery teams (15 min, focused on progress and blockers)
 - **Weekly syncs** between PM and Product Lead
-- **Twice-weekly team standups** (or as agreed)
+- **Twice-weekly standups for delivery team** (or as agreed)
 - **Monthly stakeholder updates**
 - **Sprint/milestone demos** to showcase progress
 - **Ad-hoc escalations** following defined escalation paths
